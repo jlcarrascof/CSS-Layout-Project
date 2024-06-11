@@ -16,3 +16,13 @@ form {
     width: 300px;
     border-radius: 5px;
 }
+
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+legend {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
