@@ -44,3 +44,15 @@ select {
     border-radius: 4px;
     box-sizing: border-box;
 }
+
+div > p {
+    margin-top: 10px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
