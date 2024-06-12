@@ -59,12 +59,10 @@ div > p {
     margin-top: 10px;
 }
 
-input[type="radio"] {
-    margin-right: 5px;
-}
-
+input[type="radio"],
 input[type="checkbox"] {
     margin-right: 5px;
+    margin-left: 10px;
 }
 
 button {
