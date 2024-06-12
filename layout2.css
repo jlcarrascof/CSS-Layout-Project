@@ -12,3 +12,14 @@ form {
     align-items: center;
     justify-content: center;
 }
+
+label {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+}
