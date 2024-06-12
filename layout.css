@@ -37,8 +37,9 @@ legend {
 }
 
 label {
-    display: block;
+    display: inline-block;
     margin-top: 10px;
+    width: 100px;
 }
 
 input[type="text"],
