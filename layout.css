@@ -56,7 +56,7 @@ select {
 
 /* Adjust width for status and date */
 .status-date-container input {
-    width: 48%;
+    width: 40%;
 }
 
 .radio-options {
