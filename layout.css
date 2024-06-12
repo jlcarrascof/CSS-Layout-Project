@@ -47,10 +47,10 @@ input[type="email"],
 input[type="date"],
 textarea,
 select {
-    width: 100%;
+    width: calc(100% - 110px);
     padding: 8px;
     margin-top: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #000;
     border-radius: 4px;
     box-sizing: border-box;
 }
