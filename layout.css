@@ -54,9 +54,8 @@ select {
     box-sizing: border-box;
 }
 
-/* Adjust width for status and date */
 .status-date-container input {
-    width: 40%;
+    width: 48%;
 }
 
 .radio-options {
