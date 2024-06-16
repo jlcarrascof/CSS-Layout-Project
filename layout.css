@@ -9,8 +9,7 @@ body {
     font-size: 16px;
 }
 
-legend {
+fieldset {
     border: 1px solid black;
-    margin: 15px 0 15px 0;
-    padding: 0 15px;
+    padding: 10px;
 }
