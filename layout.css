@@ -60,7 +60,7 @@ legend {
     margin-left: 25px;
 }
 
-.web-language {
+.web-language, .text-comments {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
