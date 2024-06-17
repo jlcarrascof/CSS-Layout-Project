@@ -66,3 +66,14 @@ legend {
     flex-direction: column;
     align-items: center;
 }
+
+.checkboxes {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkboxes label {
+    margin: 0 5px;
+}
